@@ -5,6 +5,6 @@
   display: block;
 }
 
-body #wall .tag-1 div {
+#wall .tag-1 div {
   display: none;
 }
